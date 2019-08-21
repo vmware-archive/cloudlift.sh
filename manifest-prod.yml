@@ -1,0 +1,10 @@
+---
+applications:
+  - name: lift-website
+    routes:
+      - route: lift.cfapps.io
+      - route: lift.spring.io
+    memory: 1G
+    disk_quota: 1G
+    instances: 1
+    path: ./cloud-foundry
