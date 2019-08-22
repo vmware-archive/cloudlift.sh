@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project contains the Markdown files that get automatically generated as documentation and guides for the [Lift Microsite](https://cloudlift.sh/) site.
+This project contains the Markdown files that get automatically generated as documentation and guides for the [Cloud Lift Website](https://cloudlift.sh/) site.
 
 ## Building
 
