@@ -2,6 +2,8 @@
   LOGO
 </p>
 
+# This repository is no longer actively maintained by VMware, Inc.
+
 ## Introduction
 
 This project contains the Markdown files that get automatically generated as documentation and guides for the [Cloud Lift Website](https://cloudlift.sh/) site.
